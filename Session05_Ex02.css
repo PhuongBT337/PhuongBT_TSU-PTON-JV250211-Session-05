@@ -1,0 +1,17 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.list_item li{
+    background-color: rgb(173, 173, 173);
+    color: white;
+    line-height: 40px;
+    width: 500px;
+    margin-bottom: 10px;
+    padding-left: 5px;
+    font-size: 1.5em;
+}
+
+.list_item li:hover{
+    background-color: gray;
+    cursor: pointer;
+}
