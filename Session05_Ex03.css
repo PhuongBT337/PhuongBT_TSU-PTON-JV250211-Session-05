@@ -1,0 +1,16 @@
+.clickme{
+    position: absolute;
+    top: 30%;
+}
+.clickme button{
+    padding: 15px;
+    font-size: 1em;
+    background-color: rgb(211, 211, 211);
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.clickme button:focus{
+    background-color: red;
+    color: white;
+}
