@@ -1,0 +1,12 @@
+.button_border{
+    margin-top: 100px;
+}
+
+.button_border button{
+    font-size: 2em;
+    border-left:  20px groove rgb(172, 2, 130);
+    border-right:  7px dotted purple;
+    border-top:  5px solid red;
+    border-bottom:  10px double green;
+
+}
